@@ -1,7 +1,7 @@
 {
  "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
     "name": "SushiSwap",
-    "logo": "sushi.png",
+    "logo": "sushi.svg",
     "erc20": true,
     "erc721": false,
     "symbol": "SUSHI",
